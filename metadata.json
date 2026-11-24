@@ -1,0 +1,6 @@
+{
+  "name": "Clothing Store DZ — COD Store Template",
+  "description": "قالب متجر الكتروني حديث للدفع عند الاستلام (Cash on Delivery) لمنتج واحد باللغة العربية، مع ربط مباشر بـ Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
